@@ -55,3 +55,8 @@
 
 ### 🌍 Connect 
 [![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.microsoft.com/l/chat/0/0?users=mohammad.kashif1@ingka.ikea.com)
+
+---
+
+### 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mokas10&theme=tokyonight&no-frame=true&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
