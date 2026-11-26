@@ -50,7 +50,6 @@
 - Migrated enterprise test suites from **Selenium → Playwright** with measurable speed gains
 - Built CI/CD pipelines enabling **continuous deployment** with 10+ releases/day
 - Delivered scalable solutions for **video collaboration, SaaS, and e-commerce** platforms
-- Recognized as **Exceptional Performer** at IKEA for sustained technical and quality impact
 
 ---
 
