@@ -58,5 +58,4 @@
 
 ---
 
-### 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mokas10&theme=tokyonight&no-frame=true&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
