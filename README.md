@@ -43,16 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/3178C6/mokas10" alt="Kashif's GitHub Contributions" />
-</p>
-
----
-
 ### 🏆 Experience Highlights
 
 - **15+ years** across software engineering, test automation, quality leadership, and DevOps
