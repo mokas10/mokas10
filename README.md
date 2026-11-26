@@ -54,4 +54,5 @@
 
 ---
 
-### 🌍 Connect
+### 🌍 Connect 
+[![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.microsoft.com/l/chat/0/0?users=mohammad.kashif1@ingka.ikea.com)
