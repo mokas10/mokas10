@@ -45,13 +45,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mokas10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokas10&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokas10&theme=tokyonight&hide_border=true" />
+  <img src="https://ghchart.rshah.org/3178C6/mokas10" alt="Kashif's GitHub Contributions" />
 </p>
 
 ---
