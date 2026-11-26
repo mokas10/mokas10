@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | SDET & Automation Specialist | DevOps Practitioner**
 
-🔭 Currently working in Sweden — building end-to-end web/mobile applications, APIs, test automation, and CI/CD pipelines across complex digital products.
+🔭 Currently working in IKEA Sweden — building end-to-end web/mobile applications, APIs, test automation, and CI/CD pipelines across complex digital products.
 
 ---
 
